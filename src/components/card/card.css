@@ -1,0 +1,19 @@
+.shadow-card {
+    box-shadow:
+        3.5px 3.5px 9.2px rgba(0, 0, 0, 0.03),
+        4.7px 4.7px 18.4px rgba(0, 0, 0, 0.039),
+        5.5px 5.5px 27.6px rgba(0, 0, 0, 0.043),
+        6.1px 6.1px 36.9px rgba(0, 0, 0, 0.047),
+        6.6px 6.6px 46.5px rgba(0, 0, 0, 0.053),
+        6.9px 6.9px 57.2px rgba(0, 0, 0, 0.062),
+        7.1px 7.1px 69.8px rgba(0, 0, 0, 0.075),
+        7.3px 7.3px 86.3px rgba(0, 0, 0, 0.094),
+        7.3px 7.3px 108.6px rgba(0, 0, 0, 0.122),
+        7px 7px 136px rgba(0, 0, 0, 0.16);
+}
+
+.area-view{
+    background-image: url(../../assets/view.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
